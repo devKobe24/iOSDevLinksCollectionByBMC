@@ -48,6 +48,36 @@
     <br>
     <a href="https://www.swiftbysundell.com/" target="_blank" title="swiftbysundell">[Article] Articles, podcasts and news about Swift development, by John Sundell.</a>
     <br>
-    <a href="https://books.apple.com/kr/book-series/develop-in-swift/id1483863177" target="_blank" title="">[Swift, Book] Develop in Swift 시리즈</a>
+    <a href="https://books.apple.com/kr/book-series/develop-in-swift/id1483863177" target="_blank" title="Develop in Swift 시리즈">[Swift, Book] Develop in Swift 시리즈.</a>
+    <br>
+    <a href="https://www.edwith.org/cs50" target="_blank" title="CS50">[Learn,CS] 컴퓨터 과학 기초 지식을 배울 수 있는 강좌.</a>
+    <br>
+    <a href="https://developer.apple.com/videos/all-videos/" target="_blank" title="wwdc">[Learn, iOS] Apple 개발자 컨퍼런스 비디오.</a>
+    <br>
+    <a href="https://developer.apple.com/documentation/" target="_blank" title="apple doc">[Docs, Swift] Apple의 공식 개발 문서.</a>
+    <br>
+    <a href="https://developer.apple.com/documentation/xcode/" target="_blank" title="xcode">[Docs, IDE] Xcode Docs.</a>
+    <br>
+    <a href="https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/index.html" target="_blank" title="autolayout">[Docs, iOS, UI] Autolayout Docs.</a>
+    <br>
+    <a href="https://developer.apple.com/design/human-interface-guidelines/" target="_blank" title="">[Docs, iOS, UI/UX] Human Interface Guidelines (HIG)</a>
+    <br>
+    <a href="https://developer.apple.com/documentation/xcode/swift-packages" target="_blank" title="SPM">[Docs] Swift Package Manager (SPM)</a>
+    <br>
+    <a href="https://medium.com/@epdsant/princ%C3%ADpios-solid-no-swiftui-432a9e3c49c7" target="_blank" title="SwiftUI SOLID">[SwiftUI, Article] SwiftUI의 SOLID원칙 | Medium Post</a>
+    <br>
+    <a href="https://github.com/nalexn/clean-architecture-swiftui" target="_blank" title="SwiftUI clean archiecture">[SwiftUI] Clean Architecture for SwiftUI + Combine Repository</a>
+    <br>
+    <a href="https://github.com/realm/SwiftLint" target="_blank" title="SwiftLint">[Tool] SwiftLint Repository</a>
+    <br>
+    <a href="https://github.com/open-meteo/open-meteo" target="_blank" title="Open weather api">[API] Open-Meteo Weather API Repository</a>
+    <br>
+    <a href="https://elamir.medium.com/swift-concurrency-elevating-app-performance-ded830db5be4" target="_blank" title="swift concurrency">[Swift, Article] Swift Concurrency: Elevating App Performance | Medium post</a>
+    <br>
+    <a href="https://www.swiftwithvincent.com/" target="_blank" title="swift with vincent">[Blog] Swift 및 iOS 관련 Tip과 기사가 있는 Vincent의 Blog.</a>
+    <br>
+    <a href="https://swifting.io/" target="_blank" title="Swifting blog">[Blog]Swift, iOS 등 관련 지식 포스트가 올라오는 Michał Wojtysiak, Bartłomiej Woronin, Maciej Piotrowski 세 사람이 운영중인 Blog.</a>
+    <br>
+    <a href="https://developer.apple.com/documentation/xcode/reading-an-exception-message/" target="_blank" title="">[Docs] Reading an exception message | Apple Docs</a>
     <br>
 </p>
