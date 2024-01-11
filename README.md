@@ -76,8 +76,12 @@
     <br>
     <a href="https://www.swiftwithvincent.com/" target="_blank" title="swift with vincent">[Blog] Swift 및 iOS 관련 Tip과 기사가 있는 Vincent의 Blog.</a>
     <br>
-    <a href="https://swifting.io/" target="_blank" title="Swifting blog">[Blog] Swift, iOS 등 관련 지식 포스트가 올라오는 Michał Wojtysiak, Bartłomiej Woronin, Maciej Piotrowski 세 사람이 운영중인 Blog.</a>
+    <a href="https://swifting.io/" target="_blank" title="Swifting blog">[Blog]Swift, iOS 등 관련 지식 포스트가 올라오는 Michał Wojtysiak, Bartłomiej Woronin, Maciej Piotrowski 세 사람이 운영중인 Blog.</a>
     <br>
-    <a href="https://developer.apple.com/documentation/xcode/reading-an-exception-message/" target="_blank" title="">[Docs] Reading an exception message | Apple Docs</a>
+    <a href="https://developer.apple.com/documentation/xcode/reading-an-exception-message/" target="_blank" title="apple docs">[Docs] Reading an exception message | Apple Docs</a>
+    <br>
+    <a href="https://github.com/JeaSungLEE/iOSInterviewquestions" target="_blank" title="jercy">[iOS, interview] Jercy's Interview Questions for iOS Developers | JeaSungLee</a>
+    <br>
+    <a href="https://github.com/giftbott/iOSDevLinks" target="_blank" title="giftbot">[iOS, Link] Links For iOS Developer | giftbot</a>
     <br>
 </p>
