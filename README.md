@@ -1,5 +1,6 @@
-# BMC
 <h1>BLACKBLACK MONSTER CREW</h1>
+
+<img src="https://github.com/devKobe24/images/blob/main/BMC.jpg?raw=true" width=200>
 
 <h2>지식의 공유를 목적으로 합니다.</h2>
 
