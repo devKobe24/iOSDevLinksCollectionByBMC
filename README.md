@@ -1,9 +1,9 @@
-<h2 p align="center">
-    지식의 공유를 목적으로 합니다.
-</h2 p>
 <h1 p align="center">
-    BLACK MONSTER CREW
+    지식의 공유를 목적으로 합니다.
 </h1 p>
+<h2 p align="center">
+    BLACK MONSTER CREW
+</h2 p>
 
 <p align="center">
     <img src="https://github.com/devKobe24/images/blob/main/BMC.jpg?raw=true" width=350>    
