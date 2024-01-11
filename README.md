@@ -1,8 +1,14 @@
-<h1>BLACKBLACK MONSTER CREW</h1>
+<h1 p align="center">
+    BLACKBLACK MONSTER CREW
+</h1 p>
 
-<img src="https://github.com/devKobe24/images/blob/main/BMC.jpg?raw=true" width=200>
+<p align="center">
+    <img src="https://github.com/devKobe24/images/blob/main/BMC.jpg?raw=true" width=350>    
+</p>
 
-<h2>지식의 공유를 목적으로 합니다.</h2>
+<h2 p align="center">
+    지식의 공유를 목적으로 합니다.
+</h2 p>
 
 <p>
     <a href="https://medium.com/@techmsy/method-injection-constructor-injection-and-property-injection-in-swift-b719641cd04f" target="_blank" title="미디움 포스트">[iOS, Swift] "메서드 주입, 생성자 주입, 속성 주입" 포스트</a>
