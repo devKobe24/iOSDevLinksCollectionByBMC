@@ -1,5 +1,5 @@
 <h1 p align="center">
-    BLACKBLACK MONSTER CREW
+    BLACK MONSTER CREW
 </h1 p>
 
 <p align="center">
