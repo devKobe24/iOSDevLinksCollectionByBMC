@@ -23,7 +23,10 @@
     </dd>
     <dt>블로그</dt>
     <dd>
-    <a href="https://green1229.tistory.com/" target="_blank" title="swiftbysundell">[Blog] Green의 iOYES | Swift, iOS, SwiftUI부터 Algorithm등... 많은 양질의 포스트가 올라오는 블로그</a>  
+    <a href="https://medium.com/@Jager-yoo" target="_blank" title="jager">[Blog] Jager의 Medium | Swift, iOS, 개발일상등 많은 양질의 포스트가 올라오는 블로그</a>  
+    </dd>    
+    <dd>
+    <a href="https://green1229.tistory.com/" target="_blank" title="green">[Blog] Green의 iOYES | Swift, iOS, SwiftUI부터 Algorithm등 많은 양질의 포스트가 올라오는 블로그</a>  
     </dd>
     <dd>
     <a href="https://www.swiftbysundell.com/" target="_blank" title="swiftbysundell">[Blog] Articles, podcasts and news about Swift development, by John Sundell.</a>
