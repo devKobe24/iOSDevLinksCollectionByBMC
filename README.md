@@ -23,6 +23,9 @@
     </dd>
     <dt>블로그</dt>
     <dd>
+    <a href="https://green1229.tistory.com/" target="_blank" title="swiftbysundell">[Blog] Green의 iOYES | Swift, iOS, SwiftUI부터 Algorithm등... 많은 양질의 포스트가 올라오는 블로그</a>  
+    </dd>
+    <dd>
     <a href="https://www.swiftbysundell.com/" target="_blank" title="swiftbysundell">[Blog] Articles, podcasts and news about Swift development, by John Sundell.</a>
     </dd>
     <dd>
@@ -32,6 +35,9 @@
     <a href="https://swifting.io/" target="_blank" title="Swifting blog">[Blog]Swift, iOS 등 관련 지식 포스트가 올라오는 Michał Wojtysiak, Bartłomiej Woronin, Maciej Piotrowski 세 사람이 운영중인 Blog.</a>
     </dd>
     <dt>학습 웹 사이트</dt>
+    <dd>
+    <a href="https://yagom.net/" target="_blank" title="야곰닷넷">[Learn, iOS, Swift] 야곰닷넷 | iOS, Swift, macOS, Server Side Swift 지식을 학습할 수 있는 웹 사이트.</a> 
+    </dd>
     <dd>
     <a href="https://developer.apple.com/tutorials/app-dev-training/" target="_blank" title="iOS App Dev Tutorials | Apple">[Learn, iOS] iOS App Dev Tutorials | Apple</a>
     </dd>
@@ -73,9 +79,6 @@
     </dd>
     <dd>
     <a href="https://www.edwith.org/cs50" target="_blank" title="CS50">[Learn,CS] CS50 | 컴퓨터 과학 기초 지식을 배울 수 있는 강좌.</a>
-    </dd>
-    <dd>
-    <a href="https://yagom.net/" target="_blank" title="야곰닷넷">[Learn, iOS, Swift] 야곰닷넷 | iOS, Swift, macOS, Server Side Swift 지식을 학습할 수 있는 웹 사이트.</a> 
     </dd>
     <dt>문서</dt>
     <dd>
