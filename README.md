@@ -13,7 +13,7 @@
     <dl>
     <dt>웹 사이트</dt>
     <dd>
-        <a href="https://iosdevdirectory.com/" target="_blank" title="iosdevdirectory">[Link] "iOS Dev Directory | iOS, Swift, Apple 관련 링크 모음 웹 사이트"</a>
+        <a href="https://iosdevdirectory.com/" target="_blank" title="iosdevdirectory">[Link] iOS Dev Directory | iOS, Swift, Apple 관련 링크 모음 웹 사이트</a>
     </dd>
     <dt>블로그 포스트</dt>
     <dd>
