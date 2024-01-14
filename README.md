@@ -39,7 +39,7 @@
     </dd>
     <dt>학습 웹 사이트</dt>
     <dd>
-        <a href="https://www.hackingwithswift.com/" target="_blank" title="Hacking with swift">Hacking With Swift | Swift, iOS 관련 포럼, 강의, 면접등 관련 지식을 학습학 수 있는 웹 사이트.</a>
+        <a href="https://www.hackingwithswift.com/" target="_blank" title="Hacking with swift">[Learn, iOS, Swift] Hacking With Swift | Swift, iOS 관련 포럼, 강의, 면접등 관련 지식을 학습학 수 있는 웹 사이트.</a>
     </dd>
     <dd>
     <a href="https://yagom.net/" target="_blank" title="야곰닷넷">[Learn, iOS, Swift] 야곰닷넷 | iOS, Swift, macOS, Server Side Swift 지식을 학습할 수 있는 웹 사이트.</a> 
