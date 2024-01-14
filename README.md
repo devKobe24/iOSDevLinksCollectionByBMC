@@ -11,6 +11,10 @@
 
 <p>
     <dl>
+    <dt>웹 사이트</dt>
+    <dd>
+        <a href="https://iosdevdirectory.com/" target="_blank" title="iosdevdirectory">[Link] "iOS Dev Directory | iOS, Swift, Apple 관련 링크 모음 웹 사이트"</a>
+    </dd>
     <dt>블로그 포스트</dt>
     <dd>
     <a href="https://medium.com/@techmsy/method-injection-constructor-injection-and-property-injection-in-swift-b719641cd04f" target="_blank" title="미디움 포스트">[iOS, Swift, Article] "메서드 주입, 생성자 주입, 속성 주입" 포스트</a>
