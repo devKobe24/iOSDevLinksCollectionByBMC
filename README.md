@@ -14,7 +14,9 @@
     <dt>웹 사이트</dt>
     <dd>
         <a href="https://iosdevdirectory.com/" target="_blank" title="iosdevdirectory">[Link] iOS Dev Directory | iOS, Swift, Apple 관련 링크 모음 웹 사이트</a><br>
+        <br>
         <a href="https://iosdevjobs.com/" target="_blank" title="iosdevjobs">[Jobs] iOS Dev Jobs | iOS 개발자 채용 정보를 검색하거나 맞춤 이메일을 신청하면 관련 채용 정보를 받아볼 수 있습니다.</a><br>
+        <br>
         <a href="https://swiftpackageindex.com/" target="_blank" title="swiftpackageindex">[Package] Swift Package Index | Swift Package Manager를 위한 라이브러리를 찾을 수 있는 곳입니다.</a><br>
     </dd>
     <dt>블로그 포스트</dt>
