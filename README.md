@@ -31,6 +31,9 @@
     </dd>
     <dt>블로그</dt>
     <dd>
+    <a href="https://holyswift.app/" target="_blank" title="HolySwift">[Blog] Holy Swift | Swift 관련 많은 지식과 Algorithm, TIL 등 좋은 포스트가 올라오는 블로그</a> 
+    </dd>
+    <dd>
     <a href="https://medium.com/@Jager-yoo" target="_blank" title="jager">[Blog] Jager의 Medium | Swift, iOS, 개발일상등 많은 양질의 포스트가 올라오는 블로그</a>  
     </dd>    
     <dd>
