@@ -158,5 +158,15 @@
     <dd>
     <a href="https://developer.apple.com/videos/all-videos/" target="_blank" title="wwdc">[iOS, Swift] Apple 개발자 컨퍼런스 비디오.</a>
     </dd>
+        <dt>면접 관련</dt>
+        <dd>
+            <a href="https://github.com/gyoogle/tech-interview-for-developer" target="_blank" title="interview">[Interview, Repository] 신입 개발자 전공 지식 & 기술 면접 백과사전</a><br>
+            <br>
+            <a href="https://github.com/WeareSoft/tech-interview" target="_blank" title="interview">[Interview, Repository] Tech Interview</a><br>
+            <br>
+            <a href="https://github.com/jobhope/TechnicalNote" target="_blank" title="interview">[Interview, Repository] TechnicalNote</a><br>
+            <br>
+            <a href="https://github.com/JaeYeopHan/Interview_Question_for_Beginner" target="_blank" title="interview">[Interview, Repository] Technical Interview Guidelines for Beginners</a>
+        </dd>
     </dl>
 </p>
